@@ -13,4 +13,4 @@ In the project directory, you can run:
 
 # Author
 
-dadmor@gmail.com
+materialworldtheme@gmail.com
